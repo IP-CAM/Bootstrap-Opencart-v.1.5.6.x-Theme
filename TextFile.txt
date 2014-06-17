@@ -1,0 +1,2 @@
+git config --global http.proxy http://10.55.6.251:3128
+git config --global https.proxy https://10.55.6.251:3128

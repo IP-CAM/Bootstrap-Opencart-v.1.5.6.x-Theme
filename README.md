@@ -1,3 +1,4 @@
-bootstrup-opencart
+
+Bootstrap-Opencart-v.1.5.6.x-Theme 
 ==================
 Шаблон для магазина на опенкарт
